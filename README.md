@@ -1,4 +1,4 @@
-👨 Teja Yellanki
+🙋‍♂️ Hi, I'm Teja Yellanki
 # 💫 About Me:
 🔭 Web Development And Computer Programming<br>👯 Looking to Collaborate on Web app ideas and Development<br>🧑‍💻 Studying Btech CSE at Lovely Professional University<br>🌱 Currently Learning AIML<br>💬 Open for Contributions<br>✌🏻 The World is one big data problem
 
